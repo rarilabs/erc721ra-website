@@ -1,4 +1,4 @@
-# ERC721RA - refundable and gas optimized ERC721 NFT implementation
+# ERC721RA - refundable and gas optimized NFT
 
 ## What is ERC721RA
 
